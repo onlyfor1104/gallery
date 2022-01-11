@@ -1,86 +1,54 @@
 {
-  "Paris": [
-    {
-      "width": 3981,
-      "height": 3981,
-      "path": "./photos/Paris/_DSC0363.jpg",
-      "compressed_path": "./photos/Paris/_DSC0363.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Paris/_DSC0363.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 4000,
-      "path": "./photos/Paris/_DSC6714.jpg",
-      "compressed_path": "./photos/Paris/_DSC6714.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Paris/_DSC6714.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 4000,
-      "path": "./photos/Paris/_DSC6217.jpg",
-      "compressed_path": "./photos/Paris/_DSC6217.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Paris/_DSC6217.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 4000,
-      "path": "./photos/Paris/_DSC6175.jpg",
-      "compressed_path": "./photos/Paris/_DSC6175.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Paris/_DSC6175.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 4000,
-      "path": "./photos/Paris/_DSC6220.jpg",
-      "compressed_path": "./photos/Paris/_DSC6220.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Paris/_DSC6220.placeholder.jpg"
-    }
-  ],
   "London": [
     {
-      "width": 2541,
-      "height": 2541,
-      "path": "./photos/London/_DSC4982.jpg",
-      "compressed_path": "./photos/London/_DSC4982.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/London/_DSC4982.placeholder.jpg"
-    },
-    {
-      "width": 3985,
-      "height": 3985,
-      "path": "./photos/London/_DSC7665.jpg",
-      "compressed_path": "./photos/London/_DSC7665.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/London/_DSC7665.placeholder.jpg"
-    },
-    {
-      "width": 3668,
-      "height": 3668,
-      "path": "./photos/London/_DSC7513.jpg",
-      "compressed_path": "./photos/London/_DSC7513.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/London/_DSC7513.placeholder.jpg"
-    },
-    {
       "width": 4000,
       "height": 4000,
-      "path": "./photos/London/_DSC7702.jpg",
-      "compressed_path": "./photos/London/_DSC7702.min.jpg",
+      "path": "./photos/London/DSC7425.jpg",
+      "compressed_path": "./photos/London/DSC7425.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/London/_DSC7702.placeholder.jpg"
+      "placeholder_path": "./photos/London/DSC7425.placeholder.jpg"
     },
     {
       "width": 3537,
       "height": 3537,
-      "path": "./photos/London/_DSC7338.jpg",
-      "compressed_path": "./photos/London/_DSC7338.min.jpg",
+      "path": "./photos/London/DSC7338.jpg",
+      "compressed_path": "./photos/London/DSC7338.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/London/_DSC7338.placeholder.jpg"
+      "placeholder_path": "./photos/London/DSC7338.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 4000,
+      "path": "./photos/London/DSC7377.jpg",
+      "compressed_path": "./photos/London/DSC7377.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/London/DSC7377.placeholder.jpg"
+    }
+  ],
+  "Granada": [
+    {
+      "width": 5824,
+      "height": 3883,
+      "path": "./photos/Granada/DSC9803.jpg",
+      "compressed_path": "./photos/Granada/DSC9803.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Granada/DSC9803.placeholder.jpg"
+    },
+    {
+      "width": 5824,
+      "height": 3883,
+      "path": "./photos/Granada/DSC9826.jpg",
+      "compressed_path": "./photos/Granada/DSC9826.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Granada/DSC9826.placeholder.jpg"
+    },
+    {
+      "width": 5824,
+      "height": 3883,
+      "path": "./photos/Granada/DSC9824.jpg",
+      "compressed_path": "./photos/Granada/DSC9824.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Granada/DSC9824.placeholder.jpg"
     }
   ]
 }
